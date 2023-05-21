@@ -8,15 +8,7 @@
 
     pkgs.yarn
 
-    pkgs.replitPackages.jest
-    
-    pkgs.nodejs-16_x
-
-        pkgs.libwebp
-
-        pkgs.pyt
-
-        pkgs.libuuid
+        pkgs.libweb
 
         pkgs.ffmpeg
 
